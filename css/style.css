@@ -38,6 +38,10 @@ body {
 	display: inline-block;
 	vertical-align: middle;
 }
+.menu__list {
+	display: inline-block;
+	vertical-align: middle;
+}
 .menu__item {
 	display: inline-block;
 	vertical-align: middle;
